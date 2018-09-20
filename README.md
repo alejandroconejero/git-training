@@ -1,6 +1,5 @@
 # git-training
 hola
-<<<<<<< HEAD
 sdad
 holahola
 holahola
